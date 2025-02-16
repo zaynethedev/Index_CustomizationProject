@@ -4,7 +4,7 @@ This is a project to allow users to create and bundle themes for the Index panel
 This README is a documentation on how to make and bundle themes for Index.
 
 Current options: <br/>
-[`Themes`](#Theme-Creation) <br/>
+[`Theme Creation`](#Theme-Creation) <br/>
 Platforms <br/>
 ~~Custom Models~~ [Coming Soon] <br/>
 
