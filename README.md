@@ -30,12 +30,12 @@ After you are done adding info and setting up the materials, go to the top of yo
 
 Now press the button that reads the name of your theme object. <br/>
 
-![ClickTheme](https://github.com/user-attachments/assets/b83201f0-b812-45b5-83b2-2b4df6333878) <br/>
+![ClickTheme](https://github.com/user-attachments/assets/b7293409-f323-43ba-9f68-200102c7ac68) <br/>
 
 
 Now press the `BUNDLE` button and wait for it to finish. <br/>
 
-![ClickBundle](https://github.com/user-attachments/assets/a9d64230-72f3-44ef-bcc4-f2e857f68886) <br/>
+![ClickBundle](https://github.com/user-attachments/assets/2818b1e0-c24a-466d-bf37-ff52541f273b) <br/>
 
 
 To find your packaged theme, go to `Assets/IndexThemeBundles`, and find your theme. The theme file should have the extension of `.indextheme`. <br/>
