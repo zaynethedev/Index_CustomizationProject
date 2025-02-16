@@ -4,14 +4,14 @@ This is a project to allow users to create and bundle themes for the Index panel
 This README is a documentation on how to make and bundle themes for Index.
 
 Current options: <br/>
-[`Themes`](#Themes) <br/>
+[`Themes`](#Theme-Creation) <br/>
 Platforms <br/>
 ~~Custom Models~~ [Coming Soon] <br/>
 
 
 
 
-# Themes
+# Theme Creation
 
 To make a theme, drag and drop the `Custom Theme` prefab into your scene view. <br/>
 
