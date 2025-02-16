@@ -1,7 +1,7 @@
-# Index Custom Theme Project
+# Index Customization Project
 
-This is a project to allow users to create and bundle themes for the Index panel. <br/>
-This README is a documentation on how to make and bundle themes for Index.
+This is a project to allow users to create and bundle custom themes, platforms, and ~~models~~ for the Index panel. <br/>
+This README is a documentation on how to make and bundle these custom objects for Index.
 
 Current options: <br/>
 [`Theme Creation`](#Theme-Creation) <br/>
