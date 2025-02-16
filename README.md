@@ -8,9 +8,6 @@ Current options: <br/>
 Platforms <br/>
 ~~Custom Models~~ [Coming Soon] <br/>
 
-
-
-
 # Theme Creation
 
 To make a theme, drag and drop the `Custom Theme` prefab into your scene view. <br/>
