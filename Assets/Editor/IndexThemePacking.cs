@@ -157,9 +157,11 @@ public class IndexThemePacking : EditorWindow
         File.WriteAllText(jsonPath, jsonContent);
 
         string tempPath = Path.Combine("Assets", $"{bundleName}_Temp.prefab");
-        GameObject tempObject = Instantiate(selectedObject);
-        PrefabUtility.SaveAsPrefabAsset(tempObject, tempPath);
-        DestroyImmediate(tempObject);
+        GameObject prefabObject = new GameObject($"{bundleName}_Parent");
+        selectedObject.transform.SetParent(prefabObject.transform);
+        PrefabUtility.SaveAsPrefabAsset(prefabObject, tempPath);
+        selectedObject.transform.SetParent(null);
+        Destroy(prefabObject);
 
         AssetBundleBuild build = new AssetBundleBuild
         {
