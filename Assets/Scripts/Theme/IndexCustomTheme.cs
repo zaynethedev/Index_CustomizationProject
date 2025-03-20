@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[AddComponentMenu("Index Customization/Index Custom Theme")]
 public class IndexCustomTheme : MonoBehaviour
 {
     public string ThemeName = "Theme Name";
