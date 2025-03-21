@@ -60,7 +60,7 @@ Now when you load into your game, you should be able to activate your theme.
 > [!TIP]
 > You can use custom platform models as long as the model (in your 3d modeling software) or the gameobject (in Unity) has a scale of [0.3, 0.06, 0.3] or less, and as long as you add the `Index Custom Platform` script to your object.
 
-> [!WARN]
+> [!WARNING]
 > The loader for platforms divides your platform model by `[0.3, 0.06, 0.3]`, so make sure that your platform size is the exact same as the prefab size. (If the size of your model in your 3d modeling software matches 0.3, 0.06, 0.3, the ideal scale for your platform in the Unity editor should be 50, 50, 50)
 
 To make a theme, drag and drop the `Custom Platform` prefab into your scene view. <br/>
