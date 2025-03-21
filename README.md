@@ -1,19 +1,18 @@
 # Index Customization Project
 
+> [!IMPORTANT]
+> This is the [`custom-models`](https://github.com/zaynethedev/Index_CustomizationProject/tree/custom-models) branch of the customization project. <br/>
+> Everything here is unfinished and unstable, so if you would like to go back to the stable version, click [here](https://github.com/zaynethedev/Index_CustomizationProject). 
+
 This is a project to allow users to create and bundle custom themes, platforms, and ~~models~~ for the Index panel. <br/>
 This README is a documentation on how to make and bundle these custom objects for Index.
 
 Current options: <br/>
 [`Theme Creation`](#Theme-Creation) <br/>
 [`Platform Creation`](#Platform-Creation) <br/>
-~~Custom Models~~ [Coming Soon] <br/>
+[`Model Creation`](#Model-Creation) <br/>
 
 # Theme Creation
-
-> [!WARNING]  
-> You can use a custom model with a theme, but as there is no button/text repositioning, the model may look off. <br/>
-> The creator and contributors of this project advise you to wait for Custom Models to be part of the project as well. <br/>
-> Completion on custom models is [**70%**] complete.
 
 To make a theme, drag and drop the `Custom Theme` prefab into your scene view. <br/>
 
@@ -98,4 +97,12 @@ Now whenever you're ready, copy this file into the `Index/Loaders/Platforms` fol
 ![Files](https://github.com/user-attachments/assets/1799ce67-80ad-4e65-af08-510dae512e09) <br/>
 
 
-Now when you load into your game, you should be able to activate your theme.
+Now when you load into your game, you should be able to activate your platform.
+
+<br/>
+<br/>
+
+# Model Creation
+
+> [!WARNING]
+> This is an unstable version of model creation. It is recommended to wait until it is fully released to use this part of the customization project. Thank you!
